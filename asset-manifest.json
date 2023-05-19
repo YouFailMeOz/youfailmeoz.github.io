@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1efdfbc2.css",
+    "main.js": "./static/js/main.62d5db0e.js",
+    "static/media/Headman-T65M.mp4": "./static/media/Headman-T65M.e132c01969eeaf0b54ea.mp4",
+    "static/media/LOGO-3.png": "./static/media/LOGO-3.6b67a4e3efcd7ea791c7.png",
+    "static/media/T65M-750-zheng-mian.jpg": "./static/media/T65M-750-zheng-mian.88e5389a6b9bd2a9a51b.jpg",
+    "static/media/videoplay.png": "./static/media/videoplay.c2696c1809e477f49154.png",
+    "index.html": "./index.html",
+    "main.1efdfbc2.css.map": "./static/css/main.1efdfbc2.css.map",
+    "main.62d5db0e.js.map": "./static/js/main.62d5db0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1efdfbc2.css",
+    "static/js/main.62d5db0e.js"
+  ]
+}
